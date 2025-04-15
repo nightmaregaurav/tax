@@ -1,6 +1,6 @@
-# VAT
+# TAX
 ---
-## Simple VAT calculation helpers
+## Simple Tax calculation helpers
 
 ## Note
 - Project is Liscenced under GNU GPLv3.
